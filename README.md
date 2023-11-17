@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+- 💼 Java Engineer.
+- 🌱 I’m currently learning Java Js Go Python more and more.
 - 📫 No cross, no crown.
 - 🤔 Don’t let the past steal your present.
 
